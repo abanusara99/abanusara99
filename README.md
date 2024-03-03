@@ -70,3 +70,5 @@ Shared only the links of working projects
 
 16 - Heart Prediction -> Jupyter notebook, flask, html ->https://juf-heart.onrender.com/
 
+17 - HTML CSS Javascript -> tribute web page  -> https://codepen.io/ABAnu-Bala/pen/OJqzPRV
+
