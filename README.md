@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Flask, django, nodejs, reactjs, web development, data science**
 
-- 📫 How to reach me **abanutech66@gmail.com**
+- 📫 How to reach me **abanutech66@gmail.com**, **anupriyabalasubramanianas9@gmail.com**
 
 - ⚡ Fun fact **Looking for fun learning and work**
 
