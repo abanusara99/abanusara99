@@ -38,11 +38,17 @@
 # Links-of-live-Working projects
 Shared only the links of working projects 
 
-1 - Rock paper scissors using Flask , html , css-> https://rock-paper-scissor-7xoi.onrender.com/
+1 - Rock paper scissors using Flask , html , css-> https://rock-paper-scissor-7xoi.onrender.com/ 
 
-2 - URL shortener using Flask , html , css ->  https://url-shorten-3m12.onrender.com/
+- > Source code -> https://github.com/abanusara99/rock_paper_scissors-
+
+2 - URL shortener using Flask , html , css ->  https://url-shorten-3m12.onrender.com/ 
+
+- > Source code -> https://github.com/abanusara99/url-short
 
 3 - Password generator using Nodejs -> https://js-password.onrender.com/
+
+-> Source code -> https://github.com/abanusara99/js_pwdgen
 
 4 - Jupyter notebook internship demo of stock prediction -> https://github.com/abanusara99/PSYLIQ_ABAS/blob/main/stock/stock_ju.ipynb
 
@@ -50,7 +56,11 @@ Shared only the links of working projects
 
 6 - Meal generator using API key -> https://abanusara99.github.io/mealplanner_green.github.io/meal_diet.html
 
+-> Source code -> https://github.com/abanusara99/mealplanner_green.github.io
+
 7 - Book entry form using html,css, js -> https://abanusara99.github.io/booklibrary.github.io/
+
+-> Source code -> https://github.com/abanusara99/booklibrary.github.io
 
 8 - Jupyter notebook internship demo of T20 Tweets -> https://github.com/abanusara99/mentorness/blob/main/20tweet/t20.ipynb
 
