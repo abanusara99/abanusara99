@@ -52,9 +52,7 @@ Shared only the links of working projects
 
 8 - URL shortener using Flask , html , css ->  https://url-shorten-3m12.onrender.com/  - > Source code -> https://github.com/abanusara99/url-short
 
-9 - Password generator using Nodejs -> https://js-password.onrender.com/
-
--> Source code -> https://github.com/abanusara99/js_pwdgen
+9 - Password generator using Nodejs -> https://js-password.onrender.com/ -> Source code -> https://github.com/abanusara99/js_pwdgen
 
 
 10 - Book entry form using html,css, js -> https://abanusara99.github.io/booklibrary.github.io/  -> Source code -> https://github.com/abanusara99/booklibrary.github.io
@@ -75,5 +73,5 @@ Shared only the links of working projects
 
 18 - HTML CSS Javascript -> tribute web page  -> https://codepen.io/ABAnu-Bala/pen/OJqzPRV
 
-19 - NodeJS, React, OpenWeatherMapAPI -> https://r5s54g-3000.csb.app/ 
+19 - NodeJS, React, OpenWeatherMapAPI -> Weather App -> https://r5s54g-3000.csb.app/ 
 
