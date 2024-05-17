@@ -38,17 +38,9 @@
 # Links-of-live-Working projects
 Shared only the links of working projects 
 
-1 - Rock paper scissors using Flask , html , css-> https://rock-paper-scissor-7xoi.onrender.com/ 
+2 - Jupyter notebook internship demo of T20 Tweets -> https://github.com/abanusara99/mentorness/blob/main/20tweet/t20.ipynb
 
-- > Source code -> https://github.com/abanusara99/rock_paper_scissors-
-
-2 - URL shortener using Flask , html , css ->  https://url-shorten-3m12.onrender.com/ 
-
-- > Source code -> https://github.com/abanusara99/url-short
-
-3 - Password generator using Nodejs -> https://js-password.onrender.com/
-
--> Source code -> https://github.com/abanusara99/js_pwdgen
+3 - Jupyter notebook internship demo of Israel Palestine War Analysis -> https://github.com/abanusara99/mentorness/blob/main/isreal/isreal.ipynb
 
 4 - Jupyter notebook internship demo of stock prediction -> https://github.com/abanusara99/PSYLIQ_ABAS/blob/main/stock/stock_ju.ipynb
 
@@ -56,29 +48,32 @@ Shared only the links of working projects
 
 6 - Meal generator using API key -> https://abanusara99.github.io/mealplanner_green.github.io/meal_diet.html
 
--> Source code -> https://github.com/abanusara99/mealplanner_green.github.io
+7 -Rock paper scissors using Flask , html , css-> https://rock-paper-scissor-7xoi.onrender.com/  - > Source code -> https://github.com/abanusara99/rock_paper_scissors-
 
-7 - Book entry form using html,css, js -> https://abanusara99.github.io/booklibrary.github.io/
+8 - URL shortener using Flask , html , css ->  https://url-shorten-3m12.onrender.com/  - > Source code -> https://github.com/abanusara99/url-short
 
--> Source code -> https://github.com/abanusara99/booklibrary.github.io
+9 - Password generator using Nodejs -> https://js-password.onrender.com/
 
-8 - Jupyter notebook internship demo of T20 Tweets -> https://github.com/abanusara99/mentorness/blob/main/20tweet/t20.ipynb
+-> Source code -> https://github.com/abanusara99/js_pwdgen
 
-9 - Jupyter notebook internship demo of Israel Palestine War Analysis -> https://github.com/abanusara99/mentorness/blob/main/isreal/isreal.ipynb
 
-10 - HTML CSS Javascript -> Dollar to cents -> https://codepen.io/ABAnu-Bala/pen/rNRpzwJ
+10 - Book entry form using html,css, js -> https://abanusara99.github.io/booklibrary.github.io/  -> Source code -> https://github.com/abanusara99/booklibrary.github.io
 
-11 - HTML CSS Javascript -> Stopwatch -> https://codepen.io/ABAnu-Bala/pen/zYbpxQe
+11 - HTML CSS Javascript -> Dollar to cents -> https://codepen.io/ABAnu-Bala/pen/rNRpzwJ
 
-12 -  HTML CSS Javascript -> Temperature Converter -> https://codepen.io/ABAnu-Bala/pen/RwdxNbO
+12 - HTML CSS Javascript -> Stopwatch -> https://codepen.io/ABAnu-Bala/pen/zYbpxQe
 
-13 -  HTML CSS Javascript -> Note App -> https://codepen.io/ABAnu-Bala/pen/PoLEovM
+13 -  HTML CSS Javascript -> Temperature Converter -> https://codepen.io/ABAnu-Bala/pen/RwdxNbO
 
-14 -  HTML CSS Javascript -> To do list -> https://codepen.io/ABAnu-Bala/pen/OJqRPoR
+14 -  HTML CSS Javascript -> Note App -> https://codepen.io/ABAnu-Bala/pen/PoLEovM
 
-15 -  HTML CSS Javascript -> Calculator  -> https://codepen.io/ABAnu-Bala/pen/XWGjWpj
+15 -  HTML CSS Javascript -> To do list -> https://codepen.io/ABAnu-Bala/pen/OJqRPoR
 
-16 - Heart Prediction -> Jupyter notebook, flask, html ->https://juf-heart.onrender.com/
+16 -  HTML CSS Javascript -> Calculator  -> https://codepen.io/ABAnu-Bala/pen/XWGjWpj
 
-17 - HTML CSS Javascript -> tribute web page  -> https://codepen.io/ABAnu-Bala/pen/OJqzPRV
+17 - Heart Prediction -> Jupyter notebook, Flask, html ->https://juf-heart.onrender.com/
+
+18 - HTML CSS Javascript -> tribute web page  -> https://codepen.io/ABAnu-Bala/pen/OJqzPRV
+
+19 - NodeJS, React, OpenWeatherMapAPI -> https://r5s54g-3000.csb.app/ 
 
