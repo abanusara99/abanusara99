@@ -73,5 +73,5 @@ Shared only the links of working projects
 
 18 - HTML CSS Javascript -> tribute web page  -> https://codepen.io/ABAnu-Bala/pen/OJqzPRV
 
-19 - NodeJS, React, OpenWeatherMapAPI -> Weather App -> https://r5s54g-3000.csb.app/ 
+19 - Split Bill (Bill generator) -> Angular CLI (Learning) -> https://bill-splits.vercel.app/
 
