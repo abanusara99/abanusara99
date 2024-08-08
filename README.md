@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://abanusara77.wixsite.com/abasr](https://abanusara77.wixsite.com/abasr)
 
-- 📝 I regularly write articles on [https://medium.com/@yosakastories51](https://medium.com/@yosakastories51)
+- 📝 I regularly write articles on [(https://medium.com/@abanusara9/)](https://medium.com/@abanusara9/)
 
 - 💬 Ask me about **Flask, django, nodejs, reactjs, web development, data science**
 
