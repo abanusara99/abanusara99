@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anupriya B</h1>
 <h3 align="center">I am job seeker and freelancer with developer skills, design skills and have my youtube channels.</h3>
 
+main @abanusara99 , clone @iniyaab44
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abanusara99&label=Profile%20views&color=0e75b6&style=flat" alt="abanusara99" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abanusara99" alt="abanusara99" /></a> </p>
