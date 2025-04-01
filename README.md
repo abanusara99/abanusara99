@@ -17,9 +17,9 @@ main @abanusara99 , clone @iniyaab44
 
 - 💬 Ask me about **Flask, django, nodejs, reactjs, web development, data science**
 
-- 📫 How to reach me **abanutech66@gmail.com**, **anupriyabalasubramanianas9@gmail.com**
+- 📫 How to reach me **abanutech66@gmail.com**, **anupriyabalasubramanian003@gmail.com**
 
-- ⚡ Fun fact **Looking for fun learning and work**
+- ⚡ Fun fact **Learning and Work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -40,40 +40,18 @@ main @abanusara99 , clone @iniyaab44
 # Links-of-live-Working projects
 Shared only the links of working projects 
 
-2 - Jupyter notebook internship demo of T20 Tweets -> https://github.com/abanusara99/mentorness/blob/main/20tweet/t20.ipynb
+ T20 Tweets ,Jupyter notebook internship demo-> https://github.com/abanusara99/mentorness/blob/main/20tweet/t20.ipynb
 
-3 - Jupyter notebook internship demo of Israel Palestine War Analysis -> https://github.com/abanusara99/mentorness/blob/main/isreal/isreal.ipynb
+ Israel Palestine War Analysis, Jupyter notebook internship demo  -> https://github.com/abanusara99/mentorness/blob/main/isreal/isreal.ipynb
+ 
+ Stock prediction, Jupyter notebook internship demo  -> https://github.com/abanusara99/PSYLIQ_ABAS/blob/main/stock/stock_ju.ipynb
 
-4 - Jupyter notebook internship demo of stock prediction -> https://github.com/abanusara99/PSYLIQ_ABAS/blob/main/stock/stock_ju.ipynb
+ Titanic classic Jupyter notebook internship demo  -> https://github.com/abanusara99/PSYLIQ_ABAS/blob/main/titanic/titanic_ju.ipynb
 
-5 - Jupyter notebook internship demo of Titanic classic -> https://github.com/abanusara99/PSYLIQ_ABAS/blob/main/titanic/titanic_ju.ipynb
+ Meal generator using API key -> https://abanusara99.github.io/mealplanner_green.github.io/meal_diet.html
 
-6 - Meal generator using API key -> https://abanusara99.github.io/mealplanner_green.github.io/meal_diet.html
+ Password generator using Nodejs -> https://js-password.onrender.com/ -> Source code -> https://github.com/abanusara99/js_pwdgen
 
-7 -Rock paper scissors using Flask , html , css-> https://rock-paper-scissor-7xoi.onrender.com/  - > Source code -> https://github.com/abanusara99/rock_paper_scissors-
+ Heart Prediction -> Jupyter notebook, Flask, html ->https://juf-heart.onrender.com/
 
-8 - URL shortener using Flask , html , css ->  https://url-shorten-3m12.onrender.com/  - > Source code -> https://github.com/abanusara99/url-short
-
-9 - Password generator using Nodejs -> https://js-password.onrender.com/ -> Source code -> https://github.com/abanusara99/js_pwdgen
-
-
-10 - Book entry form using html,css, js -> https://abanusara99.github.io/booklibrary.github.io/  -> Source code -> https://github.com/abanusara99/booklibrary.github.io
-
-11 - HTML CSS Javascript -> Dollar to cents -> https://codepen.io/ABAnu-Bala/pen/rNRpzwJ
-
-12 - HTML CSS Javascript -> Stopwatch -> https://codepen.io/ABAnu-Bala/pen/zYbpxQe
-
-13 -  HTML CSS Javascript -> Temperature Converter -> https://codepen.io/ABAnu-Bala/pen/RwdxNbO
-
-14 -  HTML CSS Javascript -> Note App -> https://codepen.io/ABAnu-Bala/pen/PoLEovM
-
-15 -  HTML CSS Javascript -> To do list -> https://codepen.io/ABAnu-Bala/pen/OJqRPoR
-
-16 -  HTML CSS Javascript -> Calculator  -> https://codepen.io/ABAnu-Bala/pen/XWGjWpj
-
-17 - Heart Prediction -> Jupyter notebook, Flask, html ->https://juf-heart.onrender.com/
-
-18 - HTML CSS Javascript -> tribute web page  -> https://codepen.io/ABAnu-Bala/pen/OJqzPRV
-
-19 - Split Bill (Bill generator) -> Angular CLI (Learning) -> https://bill-splits.vercel.app/
 
