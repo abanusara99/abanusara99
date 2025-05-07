@@ -40,9 +40,11 @@ main @abanusara99 , clone @iniyaab44
 Shared only the links of working projects 
 
 
- Password generator using Nodejs -> https://js-password.onrender.com/ -> Source code -> https://github.com/abanusara99/js_pwdgen
+ Password generator -> https://js-password.onrender.com/ -> Source code -> https://github.com/abanusara99/js_pwdgen
 
+ Mood Tracker -> https://mood-tracker-nosql.vercel.app/ -> Source code ->https://github.com/abanusara99/mood-tracker-txt-download
 
+ Weather openweathermapapi - https://reactjsx-weatherapi.onrender.com/ -> Source code -> https://github.com/abanusara99/reactjsx_weatherapi
 
  Heart Prediction -> Jupyter notebook, Flask, html ->https://juf-heart.onrender.com/
 
