@@ -9,13 +9,13 @@ main @abanusara99 , clone @iniyaab44
 
 - 🌱 I’m currently learning **nodejs**
 
-- 👯 I’m looking to collaborate on **HR who hire interns with zero experience**
+- 👯 I’m looking to collaborate on **who looking for candidates**
 
 - 👨‍💻 All of my projects are available at [https://abanusara77.wixsite.com/abasr](https://abanusara77.wixsite.com/abasr)
 
 - 📝 I regularly write articles on [(https://medium.com/@abanusara9/)](https://medium.com/@abanusara9/)
 
-- 💬 Ask me about **Flask, django, nodejs, reactjs, web development, data science**
+- 💬 Ask me about **Flask, nodejs, reactjs, web development, data science**
 
 - 📫 How to reach me **abanutech66@gmail.com**, **anupriyabalasubramanian003@gmail.com**
 
@@ -39,17 +39,10 @@ main @abanusara99 , clone @iniyaab44
 # Links-of-live-projects
 Shared only the links of working projects 
 
- T20 Tweets ,Jupyter notebook internship demo-> https://github.com/abanusara99/mentorness/blob/main/20tweet/t20.ipynb
-
- Israel Palestine War Analysis, Jupyter notebook internship demo  -> https://github.com/abanusara99/mentorness/blob/main/isreal/isreal.ipynb
- 
- Stock prediction, Jupyter notebook internship demo  -> https://github.com/abanusara99/PSYLIQ_ABAS/blob/main/stock/stock_ju.ipynb
-
- Titanic classic Jupyter notebook internship demo  -> https://github.com/abanusara99/PSYLIQ_ABAS/blob/main/titanic/titanic_ju.ipynb
-
- Meal generator using API key -> https://abanusara99.github.io/mealplanner_green.github.io/meal_diet.html
 
  Password generator using Nodejs -> https://js-password.onrender.com/ -> Source code -> https://github.com/abanusara99/js_pwdgen
+
+
 
  Heart Prediction -> Jupyter notebook, Flask, html ->https://juf-heart.onrender.com/
 
