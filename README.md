@@ -17,7 +17,7 @@ main @abanusara99 , clone @iniyaab44
 
 - 💬 Ask me about **Flask, nodejs, reactjs, web development, data science**
 
-- 📫 How to reach me **abanutech66@gmail.com**, **anupriyabalasubramanian003@gmail.com**
+- 📫 How to reach me **abanubala77@gmail.com**, **anupriyabalasubramanian003@gmail.com**
 
 - ⚡ Fun fact **Learning and Work**
 
