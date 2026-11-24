@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anupriya B</h1>
-<h3 align="center">I am aspiring Content Writer, Graphic Designer, Developer and have Youtube channels.</h3>
+<h3 align="center">I am aspiring Developer with creative ideas.</h3>
 
 main @abanusara99 , clone @iniyaab44
 
